@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# Hi 👋, I'm Lakshay Pal
+# Hi 👋, I'm Lakshay
 
 ### Full-Stack Developer | Backend Engineering Enthusiast
 
